@@ -3,7 +3,7 @@
 hello dear how are you all
 <<<<<<< HEAD
 
-
+yasalam bra
 galak swpas
 =======
 how are you men
